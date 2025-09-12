@@ -1,0 +1,28 @@
+# -------------------------
+# Large analysis outputs
+# -------------------------
+*.rds
+*.RDS
+*.rda
+*.rdata
+*.h5
+
+# Results / plots / figures
+output/
+plots/
+results/
+figures/
+*.pdf
+*.png
+*.jpeg
+*.jpg
+
+# Tables
+*.csv
+*.xlsx
+
+# -------------------------
+# Temporary & system files
+# -------------------------
+*.tmp
+
