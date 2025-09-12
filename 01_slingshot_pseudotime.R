@@ -55,7 +55,6 @@ pca <- prcomp(
 rd_pca <- pca$x[, 1:2]
 
 ## Diffusion Map
-library(destiny)
 dm <- DiffusionMap(t(log1p(assays(sce)$norm)))  # Captures continuous cell-state transitions
 rd_dm <- cbind(DC1 = dm$DC1, DC2 = dm$DC2)      # Store first two diffusion components
 
@@ -108,7 +107,6 @@ legend(
 dev.off()
 
 # --------- 6. Additional clustering ---------- 
-## 6a) Gaussian Mixture Model (GMM) clustering
 # Fits a mixture of multivariate Gaussians to the Diffusion Map
 # and automatically selects the optimal number of clusters
 # based on Bayesian Information Criterion (BIC).
