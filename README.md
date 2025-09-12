@@ -11,8 +11,9 @@ and performs:
 The repo is dataset-agnostic: provide any processed Seurat object.
 
 ## Example Visualizations
-<img width="1344" height="1266" alt="image" src="https://github.com/user-attachments/assets/440ccb30-4c9f-45fb-bfb1-26ea948816ff" />
-<img width="954" height="952" alt="image" src="https://github.com/user-attachments/assets/759b3c61-71a5-4e57-b529-226937103460" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/440ccb30-4c9f-45fb-bfb1-26ea948816ff" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4e5ceec3-32e1-4f51-ab8c-b715dc3bbf2a" />
+
 
 
 ## Requirements
