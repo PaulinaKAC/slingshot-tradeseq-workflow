@@ -139,6 +139,7 @@ dev.off()
 
 
 # --------- 7. Save final SCE ----------
+output_file <- "results/sce_slingshot.rds"  # <-- adjust to your desired path/name
 saveRDS(sce, file = output_file)
 message("Saved SCE with reducedDims and clustering to: ", output_file)
 
