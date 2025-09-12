@@ -28,7 +28,7 @@ Rscript scripts/01_slingshot_pseudotime.R \
 # Run tradeSeq differential expression
 Rscript scripts/02_tradeseq_differential.R \
        --input results/sce_after_slingshot.rds
-
+```
 ## Project Structure
 ```
 scRNAseq-trajectory-analysis/
