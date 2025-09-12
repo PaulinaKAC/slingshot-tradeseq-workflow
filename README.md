@@ -13,7 +13,8 @@ The repo is dataset-agnostic: provide any processed Seurat object.
 ## Example Visualizations
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/585e1d11-9aaa-45b4-a533-1c928a241f59" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/156c55a2-582f-4a48-929e-631bff7cbf85" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e7aeee75-7b50-421f-947b-cb984967a56e" />
+
 
 
 
