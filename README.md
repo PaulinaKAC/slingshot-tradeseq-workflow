@@ -22,9 +22,9 @@ The code is dataset-agnostic: supply any single-cell dataset that has been clean
 ## 📁 Project Structure
 ```text
 slingshot-tradeseq-workflow/
-├─ README.md                     # This document
-├─ LICENSE                        # MIT or other license
-├─ .gitignore                      # Ignore large data and outputs
+├─ README.md                     
+├─ LICENSE                        
+├─ .gitignore                      
 ├─ scripts/
     ├─ 01_slingshot_pseudotime.R     # Convert Seurat → SCE, PCA/DiffusionMap, Slingshot
     └─ 02_tradeseq_differential.R    # tradeSeq differential expression along pseudotime
