@@ -26,11 +26,9 @@ slingshot-tradeseq-workflow/
 ├─ LICENSE                        # MIT or other license
 ├─ .gitignore                      # Ignore large data and outputs
 ├─ scripts/
-│    ├─ 01_slingshot_pseudotime.R     # Convert Seurat → SCE, PCA/DiffusionMap, Slingshot
-│    └─ 02_tradeseq_differential.R    # tradeSeq differential expression along pseudotime
-└─ images/
-     ├─ example_trajectory.png        # Sample trajectory plot
-     └─ example_tradeseq_trends.png   # Sample tradeSeq gene trends
+    ├─ 01_slingshot_pseudotime.R     # Convert Seurat → SCE, PCA/DiffusionMap, Slingshot
+    └─ 02_tradeseq_differential.R    # tradeSeq differential expression along pseudotime
+
 ```
 
 ## Example Visualizations
