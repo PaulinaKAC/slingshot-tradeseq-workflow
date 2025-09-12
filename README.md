@@ -59,7 +59,7 @@ If you use this workflow, please cite:
 * **SingleCellExperiment** – Amezquita RA, et al. *Orchestrating single-cell analysis with Bioconductor.* **Nat Methods. 2020.**  
   [https://doi.org/10.1038/s41592-019-0654-x](https://doi.org/10.1038/s41592-019-0654-x)
 
-Include any additional dataset citations if you distribute example data.
+
 
 ---
 
