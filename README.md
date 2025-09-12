@@ -44,19 +44,34 @@ R ≥ 4.2 and the following R packages:
 `slingshot`, `SingleCellExperiment`, `destiny`, `tradeSeq`, `Seurat`, `mclust`, `ggplot2`, `ggthemes`, `RColorBrewer`
 Enough computing RAM/cores especially for tradeSeq and diffusion mapping
 
-## 📚 Citation
+## 📚 Citations
 
-If you use this workflow, please cite:
+If you use this workflow or any of its code, please cite the relevant software and methods:
 
-* **Slingshot** – Street K, et al. *Slingshot: cell lineage and pseudotime inference for single-cell transcriptomics.* **BMC Genomics. 2018.**  
+* **Slingshot**  
+  Street K, et al. *Slingshot: cell lineage and pseudotime inference for single-cell transcriptomics.*  
+  BMC Genomics. 2018;19:477.  
   [https://doi.org/10.1186/s12864-018-4772-0](https://doi.org/10.1186/s12864-018-4772-0)
 
-* **tradeSeq** – Van den Berge K, et al. *Trajectory-based differential expression analysis for single-cell sequencing data.* **Nat Commun. 2020.**  
+* **tradeSeq**  
+  Van den Berge K, et al. *Trajectory-based differential expression analysis for single-cell sequencing data.*  
+  Nature Communications. 2020;11:1201.  
   [https://doi.org/10.1038/s41467-020-14766-3](https://doi.org/10.1038/s41467-020-14766-3)
 
-* **SingleCellExperiment** – Amezquita RA, et al. *Orchestrating single-cell analysis with Bioconductor.* **Nat Methods. 2020.**  
-  [https://doi.org/10.1038/s41592-019-0654-x](https://doi.org/10.1038/s41592-019-0654-x)
+* **Seurat**  
+  Hao Y, et al. *Integrated analysis of multimodal single-cell data.*  
+  Cell. 2021;184(13):3573–3587.  
+  [https://doi.org/10.1016/j.cell.2021.04.048](https://doi.org/10.1016/j.cell.2021.04.048)
 
+* **destiny (Diffusion Maps)**  
+  Angerer P, et al. *destiny: diffusion maps for large-scale single-cell data analysis.*  
+  Bioinformatics. 2016;32(8):1241–1243.  
+  [https://doi.org/10.1093/bioinformatics/btv715](https://doi.org/10.1093/bioinformatics/btv715)
+
+* **mclust**  
+  Scrucca L, et al. *mclust 5: Clustering, Classification and Density Estimation Using Gaussian Finite Mixture Models.*  
+  The R Journal. 2016;8(1):289–317.  
+  [https://doi.org/10.32614/RJ-2016-021](https://doi.org/10.32614/RJ-2016-021)
 
 
 ---
